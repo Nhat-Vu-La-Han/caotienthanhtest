@@ -1,0 +1,6 @@
+( x > 5 ) với x = 6 vì 6 > 5 là đúng (T)
+( x < 10 ) với x = 6 vì 6 < 10 là đúng (T)
+|y| > 5 với y = 4 thay vào là |4| > 5 là sai (F)
+Từ trên suy ra được là :
+( x > 5 ) = (T) | ( x < 10 ) = (T) | |y| > 5 = (F)
+Mà theo cái công thức kia thì cứ lập cái bảng ra rồi tính thì ra là (T) gọi là 1
